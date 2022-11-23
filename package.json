@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "01-react-lesson",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/react-homework-template/",
+  "homepage": "https://yuriysamuse.github.io/01-react-lesson/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
